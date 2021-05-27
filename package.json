@@ -1,0 +1,16 @@
+{
+  "name": "esbuild-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.12.3",
+    "esbuild-vue": "^0.3.1",
+    "vue": "^2.6.12"
+  }
+}
